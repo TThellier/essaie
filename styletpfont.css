@@ -1,0 +1,23 @@
+@font-face {
+    font-family: "robotcrush";
+    src: url(../tp3font/font/Robot\ Crush.ttf);
+    src: url(../tp3font/font/Robot\ Crush\ Italic.otf);
+    src: url(../tp3font/font/Robot\ Crush\ Italic.ttf);
+    src: url(../tp3font/font/Robot\ Crush.otf);
+}
+h1 , p
+{
+    font-family: "robotcrush";
+}
+#para1
+{
+    background-color: rgb(164, 227, 231);
+    vertical-align: middle;
+    width: 600px;
+    height: 200px;
+    
+}
+p
+{
+    font-size: 26px;
+}
